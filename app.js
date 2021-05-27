@@ -68,7 +68,7 @@ const openModal = () => {
         document.getElementById(`vibeAlbum`).innerText=`Oh we are ready for this. Get ready to dance like it's the 2000's and toss on these albums to set the mood. Oops!... I did it again! - Britney Spears, No Strings Attached - NSync, Teenage Dream: The Complete Confection - Katy Perry.`;
         document.getElementById(`vibeDrink`).innerText=`Let's keep it simple here people. Sprite chaser with bottom shelf vodka.`;
         document.getElementById(`vibeSongs`).innerText=`Circus - Britney Spears, Last Night - The Strokes, Hips Don't Lie - Shakira, Break it Off - Rihanna, Waiting For Tonight - JLo, 4 Minutes - Madonna and Justin Timberlake, Like A G6 - Far East Movement, She Wolf - Shakira.`;
-        document.getElementById(`modal`).style.backgroundImage="url('./images/partyVibes2.JPG')";
+        document.getElementById(`modal`).style.backgroundImage="url('./images/partyVibes2.jpg')";
         document.getElementById(`modal`).style.backgroundSize="cover";
         document.getElementById(`modal-textbox`).style.backgroundColor="rgba(220, 20, 60, 0.9)";
         audioFour.play();
@@ -77,7 +77,7 @@ const openModal = () => {
         document.getElementById(`vibeAlbum`).innerText=`Oh we are ready for this. Get ready to dance like it's the 2000's and toss on these albums to set the mood. Oops!... I did it again! - Britney Spears, No Strings Attached - NSync, Teenage Dream: The Complete Confection - Katy Perry.`;
         document.getElementById(`vibeDrink`).innerText=`In the words of Shaun White, "I'm talkin' 'bout Mountain Dews, baby.`;
         document.getElementById(`vibeSongs`).innerText=`Circus - Britney Spears, Last Night - The Strokes, Hips Don't Lie - Shakira, Break it Off - Rihanna, Waiting For Tonight - JLo, 4 Minutes - Madonna and Justin Timberlake, Like A G6 - Far East Movement, She Wolf - Shakira.`;
-        document.getElementById(`modal`).style.backgroundImage="url('./images/partyVibes2.JPG')";
+        document.getElementById(`modal`).style.backgroundImage="url('./images/partyVibes2.jpg')";
         document.getElementById(`modal`).style.backgroundSize="cover";
         document.getElementById(`modal-textbox`).style.backgroundColor="rgba(220, 20, 60, 0.9)";
         audioFour.play();
@@ -86,7 +86,7 @@ const openModal = () => {
         document.getElementById(`vibeAlbum`).innerText=`Ah yes. Paris. We'll always have Paris, and with these albums, you can't help but pretend you are in Paris eating fresh croissants and brie. Toss on these albums to set the scene. Ella and Louis - Ella Fitzgerald and Louis Armstrong, Midnight in Paris (Music from the Motion Picture) - Various Artists, Chansons Des Cafés De Paris - Edith Piaf.`;
         document.getElementById(`vibeDrink`).innerText=`Pour yourself a French 75 or some Red Wine. If possible, break out some cheese as well. Brie, Cheddar, anything will do.`;
         document.getElementById(`vibeSongs`).innerText=`La Vie En Rose - Lady Gaga, La Vie En Rose - Edith Piaf, April in Paris - Ella Fitzgerald, Si Tu vois ma mêre - Sidney Bechet, Sympathique - Pink Martini.`;
-        document.getElementById(`modal`).style.backgroundImage="url('./images/parisVibes.JPG')";
+        document.getElementById(`modal`).style.backgroundImage="url('./images/parisVibes.jpg')";
         document.getElementById(`modal`).style.backgroundSize="cover";
         document.getElementById(`modal-textbox`).style.backgroundColor="rgba(55, 99, 141, 0.9)";
         audioFive.play();
@@ -95,7 +95,7 @@ const openModal = () => {
         document.getElementById(`vibeAlbum`).innerText=`Ah yes. Paris. We'll always have Paris, and with these albums, you can't help but pretend you are in Paris eating fresh croissants and brie. Toss on these albums to set the scene. Ella and Louis - Ella Fitzgerald and Louis Armstrong, Midnight in Paris (Music from the Motion Picture) - Various Artists, Chansons Des Cafés De Paris - Edith Piaf.`;
         document.getElementById(`vibeDrink`).innerText=`This may sound like a weird one, but have any drink you want. Just make sure you drink it out of a wine glass.`;
         document.getElementById(`vibeSongs`).innerText=`La Vie En Rose - Lady Gaga, La Vie En Rose - Edith Piaf, April in Paris - Ella Fitzgerald, Si Tu vois ma mêre - Sidney Bechet, Sympathique - Pink Martini.`;
-        document.getElementById(`modal`).style.backgroundImage="url('./images/parisVibes.JPG')";
+        document.getElementById(`modal`).style.backgroundImage="url('./images/parisVibes.jpg')";
         document.getElementById(`modal`).style.backgroundSize="cover";
         document.getElementById(`modal-textbox`).style.backgroundColor="rgba(55, 99, 141, 0.9)";
         audioFive.play();
@@ -104,7 +104,7 @@ const openModal = () => {
         document.getElementById(`vibeAlbum`).innerText=`Oh HONEYYYY we are feeling DISCO we SEE you we HEAR you and we FEEL the vibe. Albums for you are as follows. Off The Wall - Michael Jackson. ABBA - Gold: Greatest Hits. Raise! - Earth, Wind, & Fire, Saturday Night Fever Movie Soundtrack - Bee Gees.`;
         document.getElementById(`vibeDrink`).innerText=`Negroni's are the vibe right now, but then again, a vodka soda with lime could be good.`;
         document.getElementById(`vibeSongs`).innerText=`More Than A Woman - Bee Gees, Heart Of Glass - Blondie, It's Raining Men - The Weather Girls, Brick House - Commodores, September - Earth, Wind, and Fire, I Will Survive - Gloria Gaynor.`;
-        document.getElementById(`modal`).style.backgroundImage="url('./images/disco.JPG')";
+        document.getElementById(`modal`).style.backgroundImage="url('./images/disco.jpg')";
         document.getElementById(`modal`).style.backgroundSize="cover";
         document.getElementById(`modal-textbox`).style.backgroundColor="rgba(248, 153, 127, 0.9)";
         audioSix.play();
@@ -113,7 +113,7 @@ const openModal = () => {
         document.getElementById(`vibeAlbum`).innerText=`Oh HONEYYYY we are feeling DISCO we SEE you we HEAR you and we FEEL the vibe. Albums for you are as follows. Off The Wall - Michael Jackson. ABBA - Gold: Greatest Hits. Raise! - Earth, Wind, & Fire, Saturday Night Fever Movie Soundtrack - Bee Gees.`;
         document.getElementById(`vibeDrink`).innerText=`Shirley Temple with a million cherries.`;
         document.getElementById(`vibeSongs`).innerText=`More Than A Woman - Bee Gees, Heart Of Glass - Blondie, It's Raining Men - The Weather Girls, Brick House - Commodores, September - Earth, Wind, and Fire, I Will Survive - Gloria Gaynor.`;
-        document.getElementById(`modal`).style.backgroundImage="url('./images/disco.JPG')";
+        document.getElementById(`modal`).style.backgroundImage="url('./images/disco.jpg')";
         document.getElementById(`modal`).style.backgroundSize="cover";
         document.getElementById(`modal-textbox`).style.backgroundColor="rgba(248, 153, 127, 0.9)";
         audioSix.play();
