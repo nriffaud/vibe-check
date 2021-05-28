@@ -29,9 +29,9 @@ const openModal = () => {
         audio.play();
     } 
     else if (document.getElementById(`lonelyVibes`).checked&&document.getElementById(`alcohol`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`Breakups suck. Sometimes we need a pickme up and sometimes we need to cry and eat mountains of ICE CREAMMM. Toss on one of these albums for a vibe. Melodrama - Lorde, The Search for Everything - John Mayer, Malibu Nights -  Lany, Blue - Joni Mitchell, Norman Fucking Rockwell! - Lana Del Rey.`;
+        document.getElementById(`vibeAlbum`).innerText=`Breakups :(. Sometimes we need a pickme up and sometimes we need to cry and eat mountains of ICE CREAMMM. Toss on one of these albums for a vibe. Melodrama - Lorde, The Search for Everything - John Mayer, Malibu Nights -  Lany, Blue - Joni Mitchell.`;
         document.getElementById(`vibeDrink`).innerText=`Pour yourself some Red Wine, or some White Wine. To be honest since you're feeling sad you should drink whatever you want. But wine should do the trick. Our preferred types are Merlots, Cabernets, and Sauvignon Blancs.`;
-        document.getElementById(`vibeSongs`).innerText=`Specific songs that will set your vibe will be Dancing On My Own - Robyn, Don't You Remember - Adele, Go Your Own Way - Fleetwood Mac, Ex-Factor - Lauryn Hill, The Winner Takes It All - ABBA, Drivers License - Olivia Rodrigo, Gives You Hell - All American Rejects.`;
+        document.getElementById(`vibeSongs`).innerText=`Specific songs that will set your vibe will be Dancing On My Own - Robyn, Don't You Remember - Adele, Ex-Factor - Lauryn Hill, The Winner Takes It All - ABBA, Drivers License - Olivia Rodrigo, Gives You Hell - All American Rejects.`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/lonelyVibes.jpg')";
         document.getElementById(`modal`).style.backgroundSize="cover";
         document.getElementById(`modal-textbox`).style.backgroundColor="rgba(137, 196, 244, 0.9)";
