@@ -29,7 +29,7 @@ const openModal = () => {
         audio.play();
     } 
     else if (document.getElementById(`lonelyVibes`).checked&&document.getElementById(`alcohol`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`Breakups suck. When lonliness strikes, toss on one of these albums. Melodrama - Lorde, The Search for Everything - John Mayer, Malibu Nights -  Lany, Blue - Joni Mitchell, Norman Fucking Rockwell! - Lana Del Rey.`;
+        document.getElementById(`vibeAlbum`).innerText=`Breakups suck. Sometimes we need a pickme up and sometimes we need to cry and eat mountains of ICE CREAMMM. Toss on one of these albums for a vibe. Melodrama - Lorde, The Search for Everything - John Mayer, Malibu Nights -  Lany, Blue - Joni Mitchell, Norman Fucking Rockwell! - Lana Del Rey.`;
         document.getElementById(`vibeDrink`).innerText=`Pour yourself some Red Wine, or some White Wine. To be honest since you're feeling sad you should drink whatever you want. But wine should do the trick. Our preferred types are Merlots, Cabernets, and Sauvignon Blancs.`;
         document.getElementById(`vibeSongs`).innerText=`Specific songs that will set your vibe will be Dancing On My Own - Robyn, Don't You Remember - Adele, Go Your Own Way - Fleetwood Mac, Ex-Factor - Lauryn Hill, The Winner Takes It All - ABBA, Drivers License - Olivia Rodrigo, Gives You Hell - All American Rejects.`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/lonelyVibes.jpg')";
@@ -38,7 +38,7 @@ const openModal = () => {
         audioTwo.play();
     } 
     else if (document.getElementById(`lonelyVibes`).checked&&document.getElementById(`normalDrink`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`Breakups suck. When lonliness strikes, toss on one of these albums. Melodrama - Lorde, The Search for Everything - John Mayer, Malibu Nights -  Lany, Blue - Joni Mitchell, Norman Fucking Rockwell! - Lana Del Rey.`;
+        document.getElementById(`vibeAlbum`).innerText=`Breakups suck. Sometimes we need a pickme up and sometimes we need to cry and eat mountains of ICE CREAMMM. Toss on one of these albums for a vibe. Melodrama - Lorde, The Search for Everything - John Mayer, Malibu Nights -  Lany, Blue - Joni Mitchell, Norman Fucking Rockwell! - Lana Del Rey.`;
         document.getElementById(`vibeDrink`).innerText=`Go boil some hot water and have some tea. Whatever you have in the house will do, but we'd ideally love to see some Lavender Chamomile or Peppermint.`;
         document.getElementById(`vibeSongs`).innerText=`Specific songs that will set your vibe will be Dancing On My Own - Robyn, Don't You Remember - Adele, Go Your Own Way - Fleetwood Mac, Ex-Factor - Lauryn Hill, The Winner Takes It All - ABBA, Drivers License - Olivia Rodrigo, Gives You Hell - All American Rejects.`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/lonelyVibes.jpg')";
@@ -47,7 +47,7 @@ const openModal = () => {
         audioTwo.play();
     } 
     else if (document.getElementById(`sensualVibes`).checked&&document.getElementById(`alcohol`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`These vibes really vary depending on your specific situation, but here are some albums that we suggest. Channel Orange - Frank Ocean, So Tonight That I MAy See - Mazzy Star, Freudian - Daniel Caesar.`;
+        document.getElementById(`vibeAlbum`).innerText=`Ooooooh we're feeling sensual tonight are we?! Obsessed. This vibe can vary drastically, but heres some suggestions ;). Channel Orange - Frank Ocean, So Tonight That I MAy See - Mazzy Star, Freudian - Daniel Caesar.`;
         document.getElementById(`vibeDrink`).innerText=`Red wine honey! No explanation needed!`;
         document.getElementById(`vibeSongs`).innerText=`Specific songs that will set your vibe will be Love on the Brain - Rihanna, Hawái - Maluma, What do you Mean - Justin Bieber, Stay Flo - Solange, Let's Get It On - Marvin Gaye.`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/recordPlayerVibes.jpeg')";
@@ -56,7 +56,7 @@ const openModal = () => {
         audioThree.play();
     } 
     else if (document.getElementById(`sensualVibes`).checked&&document.getElementById(`normalDrink`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`These vibes really vary depending on your specific situation, but here are some albums that we suggest. Channel Orange - Frank Ocean, So Tonight That I MAy See - Mazzy Star, Freudian - Daniel Caesar.`;
+        document.getElementById(`vibeAlbum`).innerText=`Ooooooh we're feeling sensual tonight are we?! Obsessed. This vibe can vary drastically, but heres some suggestions ;). Channel Orange - Frank Ocean, So Tonight That I MAy See - Mazzy Star, Freudian - Daniel Caesar.`;
         document.getElementById(`vibeDrink`).innerText=`Drink wise, we're feeling some lemonade or sweet tea. Pick your poison.`;
         document.getElementById(`vibeSongs`).innerText=`Specific songs that will set your vibe will be Love on the Brain - Rihanna, Hawái - Maluma, What do you Mean - Justin Bieber, Stay Flo - Solange,`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/recordPlayerVibes.jpeg')";
@@ -65,7 +65,7 @@ const openModal = () => {
         audioThree.play();
     } 
     else if (document.getElementById(`shotsVibes`).checked&&document.getElementById(`alcohol`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`Oh we are ready for this. Get ready to dance like it's the 2000's and toss on these albums to set the mood. Oops!... I did it again! - Britney Spears, No Strings Attached - NSync, Teenage Dream: The Complete Confection - Katy Perry.`;
+        document.getElementById(`vibeAlbum`).innerText=`Oh YES QUEEN/KING/WHATEVER YOU WANT TO BE. We are READY for this. Get ready to dance like it's the 2000's and toss on these albums to set the mo0o0o0od. Oops!... I did it again! - Britney Spears, No Strings Attached - NSync, Teenage Dream: The Complete Confection - Katy Perry.`;
         document.getElementById(`vibeDrink`).innerText=`Let's keep it simple here people. Sprite chaser with bottom shelf vodka.`;
         document.getElementById(`vibeSongs`).innerText=`Circus - Britney Spears, Last Night - The Strokes, Hips Don't Lie - Shakira, Break it Off - Rihanna, Waiting For Tonight - JLo, 4 Minutes - Madonna and Justin Timberlake, Like A G6 - Far East Movement, She Wolf - Shakira.`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/partyVibes2.jpg')";
@@ -74,7 +74,7 @@ const openModal = () => {
         audioFour.play();
     } 
     else if (document.getElementById(`shotsVibes`).checked&&document.getElementById(`normalDrink`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`Oh we are ready for this. Get ready to dance like it's the 2000's and toss on these albums to set the mood. Oops!... I did it again! - Britney Spears, No Strings Attached - NSync, Teenage Dream: The Complete Confection - Katy Perry.`;
+        document.getElementById(`vibeAlbum`).innerText=`Oh YES QUEEN/KING/WHATEVER YOU WANT TO BE. We are READY for this. Get ready to dance like it's the 2000's and toss on these albums to set the mo0o0o0od. Oops!... I did it again! - Britney Spears, No Strings Attached - NSync, Teenage Dream: The Complete Confection - Katy Perry.`;
         document.getElementById(`vibeDrink`).innerText=`In the words of Shaun White, "I'm talkin' 'bout Mountain Dews, baby.`;
         document.getElementById(`vibeSongs`).innerText=`Circus - Britney Spears, Last Night - The Strokes, Hips Don't Lie - Shakira, Break it Off - Rihanna, Waiting For Tonight - JLo, 4 Minutes - Madonna and Justin Timberlake, Like A G6 - Far East Movement, She Wolf - Shakira.`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/partyVibes2.jpg')";
@@ -83,7 +83,7 @@ const openModal = () => {
         audioFour.play();
     } 
     else if (document.getElementById(`parisVibes`).checked&&document.getElementById(`alcohol`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`Ah yes. Paris. We'll always have Paris, and with these albums, you can't help but pretend you are in Paris eating fresh croissants and brie. Toss on these albums to set the scene. Ella and Louis - Ella Fitzgerald and Louis Armstrong, Midnight in Paris (Music from the Motion Picture) - Various Artists, Chansons Des Cafés De Paris - Edith Piaf.`;
+        document.getElementById(`vibeAlbum`).innerText=`Ah yes. Paris. We'll always have Paris, as they say, and with these albums, you can't help but pretend you are in Paris eating fresh croissants and brie and all the gooood cheeses. Toss on these albums to set the scene. Ella and Louis - Ella Fitzgerald and Louis Armstrong, Midnight in Paris (Music from the Motion Picture) - Various Artists, Chansons Des Cafés De Paris - Edith Piaf.`;
         document.getElementById(`vibeDrink`).innerText=`Pour yourself a French 75 or some Red Wine. If possible, break out some cheese as well. Brie, Cheddar, anything will do.`;
         document.getElementById(`vibeSongs`).innerText=`La Vie En Rose - Lady Gaga, La Vie En Rose - Edith Piaf, April in Paris - Ella Fitzgerald, Si Tu vois ma mêre - Sidney Bechet, Sympathique - Pink Martini.`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/parisVibes.jpg')";
@@ -92,7 +92,7 @@ const openModal = () => {
         audioFive.play();
     } 
     else if (document.getElementById(`parisVibes`).checked&&document.getElementById(`normalDrink`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`Ah yes. Paris. We'll always have Paris, and with these albums, you can't help but pretend you are in Paris eating fresh croissants and brie. Toss on these albums to set the scene. Ella and Louis - Ella Fitzgerald and Louis Armstrong, Midnight in Paris (Music from the Motion Picture) - Various Artists, Chansons Des Cafés De Paris - Edith Piaf.`;
+        document.getElementById(`vibeAlbum`).innerText=`Ah yes. Paris. We'll always have Paris, as they say, and with these albums, you can't help but pretend you are in Paris eating fresh croissants and brie and all the gooood cheeses. Toss on these albums to set the scene. Ella and Louis - Ella Fitzgerald and Louis Armstrong, Midnight in Paris (Music from the Motion Picture) - Various Artists, Chansons Des Cafés De Paris - Edith Piaf.`;
         document.getElementById(`vibeDrink`).innerText=`This may sound like a weird one, but have any drink you want. Just make sure you drink it out of a wine glass.`;
         document.getElementById(`vibeSongs`).innerText=`La Vie En Rose - Lady Gaga, La Vie En Rose - Edith Piaf, April in Paris - Ella Fitzgerald, Si Tu vois ma mêre - Sidney Bechet, Sympathique - Pink Martini.`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/parisVibes.jpg')";
