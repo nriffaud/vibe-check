@@ -29,8 +29,8 @@ const openModal = () => {
         audio.play();
     } 
     else if (document.getElementById(`lonelyVibes`).checked&&document.getElementById(`alcohol`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`Breakups :(. Sometimes we need a pickme up and sometimes we need to cry and eat mountains of ICE CREAMMM. Toss on one of these albums for a vibe. Melodrama - Lorde, The Search for Everything - John Mayer, Malibu Nights -  Lany, Blue - Joni Mitchell.`;
-        document.getElementById(`vibeDrink`).innerText=`Pour yourself some Red Wine, or some White Wine. To be honest since you're feeling sad you should drink whatever you want. But wine should do the trick. Our preferred types are Merlots, Cabernets, and Sauvignon Blancs.`;
+        document.getElementById(`vibeAlbum`).innerText=`Breakups :(. Sometimes we need a pick me up and sometimes we need to cry and eat mountains of ICE CREAMMMMM. Toss on one of these albums for a vibe. Melodrama - Lorde, The Search for Everything - John Mayer, Malibu Nights -  Lany, Blue - Joni Mitchell.`;
+        document.getElementById(`vibeDrink`).innerText=`Pour yourself some Red Wine, or some White Wine. To be honest since you're feeling sad, you should drink whatever you want. But wine should do the trick. Our preferred types are Merlots, Cabernets, and Sauvignon Blancs.`;
         document.getElementById(`vibeSongs`).innerText=`Specific songs that will set your vibe will be Dancing On My Own - Robyn, Don't You Remember - Adele, Ex-Factor - Lauryn Hill, The Winner Takes It All - ABBA, Drivers License - Olivia Rodrigo, Gives You Hell - All American Rejects.`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/lonelyVibes.jpg')";
         document.getElementById(`modal`).style.backgroundSize="cover";
@@ -38,7 +38,7 @@ const openModal = () => {
         audioTwo.play();
     } 
     else if (document.getElementById(`lonelyVibes`).checked&&document.getElementById(`normalDrink`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`Breakups suck. Sometimes we need a pickme up and sometimes we need to cry and eat mountains of ICE CREAMMM. Toss on one of these albums for a vibe. Melodrama - Lorde, The Search for Everything - John Mayer, Malibu Nights -  Lany, Blue - Joni Mitchell, Norman Fucking Rockwell! - Lana Del Rey.`;
+        document.getElementById(`vibeAlbum`).innerText=`Breakups suck. Sometimes we need a pick me up and sometimes we need to cry and eat mountains of ICE CREAMMMMM. Toss on one of these albums for a vibe. Melodrama - Lorde, The Search for Everything - John Mayer, Malibu Nights -  Lany, Blue - Joni Mitchell, Norman Fucking Rockwell! - Lana Del Rey.`;
         document.getElementById(`vibeDrink`).innerText=`Go boil some hot water and have some tea. Whatever you have in the house will do, but we'd ideally love to see some Lavender Chamomile or Peppermint.`;
         document.getElementById(`vibeSongs`).innerText=`Specific songs that will set your vibe will be Dancing On My Own - Robyn, Don't You Remember - Adele, Go Your Own Way - Fleetwood Mac, Ex-Factor - Lauryn Hill, The Winner Takes It All - ABBA, Drivers License - Olivia Rodrigo, Gives You Hell - All American Rejects.`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/lonelyVibes.jpg')";
@@ -47,7 +47,7 @@ const openModal = () => {
         audioTwo.play();
     } 
     else if (document.getElementById(`sensualVibes`).checked&&document.getElementById(`alcohol`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`Ooooooh we're feeling sensual tonight are we?! Obsessed. This vibe can vary drastically, but heres some suggestions ;). Channel Orange - Frank Ocean, So Tonight That I MAy See - Mazzy Star, Freudian - Daniel Caesar.`;
+        document.getElementById(`vibeAlbum`).innerText=`Ooooooh we're feeling sensual tonight are we?! Obsessed. This vibe can vary drastically, but here are some suggestions ;). Channel Orange - Frank Ocean, So Tonight That I MAy See - Mazzy Star, Freudian - Daniel Caesar.`;
         document.getElementById(`vibeDrink`).innerText=`Red wine honey! No explanation needed!`;
         document.getElementById(`vibeSongs`).innerText=`Specific songs that will set your vibe will be Love on the Brain - Rihanna, Hawái - Maluma, What do you Mean - Justin Bieber, Stay Flo - Solange, Let's Get It On - Marvin Gaye.`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/recordPlayerVibes.jpeg')";
@@ -56,7 +56,7 @@ const openModal = () => {
         audioThree.play();
     } 
     else if (document.getElementById(`sensualVibes`).checked&&document.getElementById(`normalDrink`).checked) {
-        document.getElementById(`vibeAlbum`).innerText=`Ooooooh we're feeling sensual tonight are we?! Obsessed. This vibe can vary drastically, but heres some suggestions ;). Channel Orange - Frank Ocean, So Tonight That I MAy See - Mazzy Star, Freudian - Daniel Caesar.`;
+        document.getElementById(`vibeAlbum`).innerText=`Ooooooh we're feeling sensual tonight are we?! Obsessed. This vibe can vary drastically, but here are some suggestions ;). Channel Orange - Frank Ocean, So Tonight That I MAy See - Mazzy Star, Freudian - Daniel Caesar.`;
         document.getElementById(`vibeDrink`).innerText=`Drink wise, we're feeling some lemonade or sweet tea. Pick your poison.`;
         document.getElementById(`vibeSongs`).innerText=`Specific songs that will set your vibe will be Love on the Brain - Rihanna, Hawái - Maluma, What do you Mean - Justin Bieber, Stay Flo - Solange,`;
         document.getElementById(`modal`).style.backgroundImage="url('./images/recordPlayerVibes.jpeg')";
